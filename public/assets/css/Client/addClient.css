@@ -1,0 +1,57 @@
+
+body {
+	color: #566787;
+	background: #f5f5f5;
+	font-family: 'Varela Round', sans-serif;
+	font-size: 13px;
+}
+
+.container-xl form {
+	background: #fff;
+	padding: 20px 25px;
+	border-radius: 3px;
+	min-width: 1000px;
+	box-shadow: 0 1px 1px rgba(0,0,0,.05);
+
+
+}
+.table-responsive {
+    margin: 30px 0;
+}
+.title h1 {
+
+    margin: 3 0 0 1;
+   
+}
+
+.form-title {        
+	padding-bottom: 15px;
+	background: #435d7d;
+	color: #fff;
+	padding: 16px 30px;
+	min-width: 1000px;
+	margin: -20px -11px 10px ;
+	border-radius: 3px 3px 0 0;
+}
+.form-title h2 {
+	margin: 5px 0 0;
+	font-size: 24px;
+}
+
+.mb-3 
+{
+    padding-left: 18%;
+    padding-top: 4%;
+}
+  input[type=submit]{
+    
+	border-radius: 3%;
+	padding-right: 10%;
+	
+     
+     
+}
+
+
+
+
